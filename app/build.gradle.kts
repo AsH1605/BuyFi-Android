@@ -9,7 +9,7 @@ android {
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.cookie.composecourse"
+        applicationId = "com.cookie.buyfi"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
