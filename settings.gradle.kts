@@ -20,4 +20,9 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "BuyFi"
-include(":app")
+include(":common")
+include(":buyfi")
+include(":customer:order")
+include(":customer:account")
+include(":onboarding")
+include(":seller")
